@@ -1,0 +1,26 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+body {
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+}
+
+.main {
+flex: 1 0 auto;
+}
+
+.logo{
+	font-family: 'Lobster', cursive;
+	color: #fff;
+	font-size: 72px;
+}
+
+.vinylCount{
+	font-size: 16px;
+}
