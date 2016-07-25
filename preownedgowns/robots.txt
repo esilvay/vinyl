@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /member/
-Disallow: /assets/
-Sitemap: http://www.preownedgowns.com/sitemap.php
